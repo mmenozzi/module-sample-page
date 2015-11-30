@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+    <router id="standard">
+        <route id="samplepage" frontName="samplepage">
+            <module name="Mmenozzi_SamplePage" />
+        </route>
+    </router>
+</config>
